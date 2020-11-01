@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "I am Product Manager, bitch.",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Writing about products, innovation and mindsets.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Writing about products, innovation and mindsets.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Karine Sabatier",
+    "email": "karine.sabatier@zenika.com",
     "url": "https://example.com/about-me/"
   }
 }
