@@ -1,3 +1,12 @@
+---
+title: Change vs disturbance
+description: Change is good. Disturbance is evil. Get your shit together and stop disturbing.
+date: 2020-11-02
+tags:
+  - change, agile
+layout: layouts/post.njk
+---
+
 ## Change vs Disturbance  
 One of the strong promises of going agile for a team (induced by the term itself) is to better adapt to change. Agile methodologies bet that by adapting to change the team will release a product that will, eventually, bring more value to its customers.
 There are different kinds of change for which Agile is relevant, and helps raising best practice:  
