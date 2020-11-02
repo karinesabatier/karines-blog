@@ -1,7 +1,7 @@
 ---
 title: There is no roadmap for innovation
 description: No road, no visibility, no shortcut
-date: 2020-11-01
+date: 2020-06-02
 tags:
   - innovation, roadmap
 layout: layouts/post.njk
