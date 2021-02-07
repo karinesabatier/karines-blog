@@ -1,12 +1,12 @@
 {
   "title": "I am Product Manager, bitch.",
-  "url": "https://example.com/",
+  "url": "https://karinesabatier.netlify.app/",
   "description": "Writing about products, innovation and mindsets.",
   "feed": {
     "subtitle": "Writing about products, innovation and mindsets.",
-    "filename": "feed.xml",
+    "filename": "feed.xmvl",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://karinesabatier.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
@@ -15,6 +15,6 @@
   "author": {
     "name": "Karine Sabatier",
     "email": "karine.sabatier@zenika.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://karinesabatier.netlify.app/about-me/"
   }
 }
