@@ -24,13 +24,15 @@ For people like me, who have an effectuation mindset, the destination doesn’t 
 ## Where the clients choice lies
 Meaning doesn’t have to come all from the Why. Execution, how you do your stuff, drives as much meaning as intention.
 
-Many companies (like AirBnb) don’t have a very differentiating Why (in France we had “Chambres d’Hôtes” before AirBnb arrived and it was doing fine) but they really nailed the implementation focusing on design, community and authenticity. Between 2 companies having the same Whys, the choice of your clients will greatly depend on how you do your stuff : with generosity, with care, with grit and perseverance, with energy, with attention to details…?
+Many companies (like AirBnb) don’t have a very differentiating Why (in France we had “Chambres d’Hôtes” before AirBnb arrived and it was doing fine) but they really nailed the implementation focusing on design, community and authenticity. Between 2 companies having the same Whys, the choice of your clients will greatly depend on how you do your stuff : **with generosity, with care, with grit and perseverance, with energy, with attention to details…?**
 
 For those of you who have both a strong Why and a strong How, what is important then is that the two be aligned.
 
 ## Be consistent
-Inspirational Why with deplorable How is bad, really bad (odious Why with good How is as bad... well maybe less bad because you’re trying to do something nice out of it). Take Mo`nsanto for instance. This is their Why, as displayed on their website
-`We develop products and tools to help farmers around the world grow crops while using energy, water, and land more efficiently. We believe innovation has the potential to bring humanity’s needs in balance with the resources of our planet.`
+Inspirational Why with deplorable How is bad, really bad (odious Why with good How is as bad... well maybe less bad because you’re trying to do something nice out of it). Take Monsanto for instance. This is their Why, as displayed on their website
+
+"We develop products and tools to help farmers around the world grow crops while using energy, water, and land more efficiently. We believe innovation has the potential to bring humanity’s needs in balance with the resources of our planet."
+
 Looks like a beautiful Why. But the implementation is just fucked up. Appealing Why, despicable How.
 
 **So start with How. Even if your intention is noble only the implementation counts in the end. Otherwise your Why is just bullshit to me.** 
