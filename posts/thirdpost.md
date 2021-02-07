@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-It’s that time of the year again. Time to step back, review your priorities, sort things out, eliminate noise and simplify to focus. So I did a little cleansing recently in my life ;) and updated my manifesto. 2021 version looks like this
+It’s that time of the year again. Time to step back, review your priorities, sort things out, eliminate noise and simplify to focus. So I did [a little cleansing recently in my life](https://karinesabatier.medium.com/getting-rid-of-and-letting-go-ae6061f8f98e) ;) and updated my manifesto. 2021 version looks like this
 
 1. **Be kind.** I am not a kind person and moving towards kindness takes a real effort from me, I need constant reminders, helpers if you like. “Be kind” is a post-it on my desk, a phrase on my desktop wallpaper and it’s also printed on my laptop’s sleeve.  
 
@@ -16,7 +16,7 @@ It’s that time of the year again. Time to step back, review your priorities, s
 
 3. **Now > Later.** (Now beats Later) Every single time. Most people live their lives like it’s a rehearsal for the Big Act. There is no rehearsal, you only get one shot and it’s pretty short. I won’t wait for anything, it’s here and now. And I avoid people who constantly repeat “let’s wait for…” or “it’s urgent to wait…” or “wait and see”. In fact, this is was scares the shit out of me. That’s why I love [this other manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 
-4. **Die Empty, There Is No Plan B.** A while ago I read [that book](https://www.amazon.fr/Die-Empty-Unleash-Your-Every/dp/1591845890) and saw [that movie](https://www.youtube.com/watch?v=7u3RrbNpRUQ) (in my top 3 of all time). Some people are constantly holding back, not giving their best, not saying everything, not sharing everything, not following entirely through. In Gattaca, Vincent wins the race not because he is better than Anton, but because he doesn’t save anything for the swim back. Live your life like it’s the only one. Because, well, it is. (And go watch Soul by the way ;)
+4. **Die Empty, There Is No Plan B.** A while ago I read [that book](https://www.amazon.fr/Die-Empty-Unleash-Your-Every/dp/1591845890) and saw [that movie](https://www.youtube.com/watch?v=7u3RrbNpRUQ) (in my top 3 of all time). Some people are constantly holding back, not giving their best, not saying everything, not sharing everything, [not following entirely through](https://seths.blog/2017/12/how-does-the-ball-know/). In Gattaca, Vincent wins the race not because he is better than Anton, but because he doesn’t save anything for the swim back. Live your life like it’s the only one. Because, well, it is. (And [go watch Soul](https://www.youtube.com/watch?v=xOsLIiBStEs) by the way ;)
 
 5. **Form > Function.** (Form beats and shapes contents). I know you usually hear it the other way around : “form follows function”. Well I strongly disagree because I see it everyday : the How shapes the What (and even the Why). That room you hold your meeting into influences the meeting’s content, that restaurant decor shapes the conversation, those clothes you’re wearing shape your self-confidence, that medium you’re writing / drawing on shapes what you’re writing / drawing. So choose the How with care.
 
