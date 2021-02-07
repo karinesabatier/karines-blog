@@ -7,16 +7,7 @@ tags:
   - personal development
 layout: layouts/post.njk
 ---
-The end of the year is coming, it’s time to press pause, step back and reflect on that very odd 2020 millesime.
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
-
-	counter++;
-
-}
 
 The end of the year is coming, it’s time to press pause, step back and reflect on that very odd 2020 millesime. I do this kind of retro from time to time and I now keep a Trello list of my learnings.  
 
