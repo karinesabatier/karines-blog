@@ -1,3 +1,23 @@
+---
+title: What have you learned in 2020?
+description: IT's time to reflect on what 2020 brought you
+date: 2020-11-21
+tags:
+  - retro
+  - personal development
+layout: layouts/post.njk
+---
+The end of the year is coming, it’s time to press pause, step back and reflect on that very odd 2020 millesime.
+
+``` js/2/4
+// this is a command
+function myCommand() {
+	let counter = 0;
+
+	counter++;
+
+}
+
 The end of the year is coming, it’s time to press pause, step back and reflect on that very odd 2020 millesime. I do this kind of retro from time to time and I now keep a Trello list of my learnings.  
 
 * I can play the piano. My beloved Dad bought me a piano last Christmas. Though I do not play as much as I’d want to, with deliberate practice I am now able to play simple parts. No impro or composition of my own yet, but playing helps me withdraw from this noisy world a moment.  
